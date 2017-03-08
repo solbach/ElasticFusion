@@ -1,4 +1,4 @@
-# ElasticFusion #
+# ElasticFusion (in progress)
 
 Real-time dense visual SLAM system capable of capturing comprehensive dense globally consistent surfel-based maps of room scale environments explored using an RGB-D camera.
 
