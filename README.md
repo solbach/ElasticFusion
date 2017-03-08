@@ -2,6 +2,7 @@
 
 Real-time dense visual SLAM system capable of capturing comprehensive dense globally consistent surfel-based maps of room scale environments explored using an RGB-D camera.
 
+
 # Related Publications #
 Please cite this work if you make use of our system in any of your own endeavors:
 
